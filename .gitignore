@@ -1,0 +1,7 @@
+.env
+.idea
+
+/src/backend/*
+!/src/backend/.keep
+/src/frontend/*
+!/src/frontend/.keep
